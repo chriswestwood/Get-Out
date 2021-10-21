@@ -1,5 +1,3 @@
-## About
-
 Discover the escape through a series of challenging and deceptive puzzles. Beat the time limit, and use the knowledge you gain as you play to find the correct path. Currently 1 level exists, a platformer with a twist.
 An entry for Honest Jam 2.
 
